@@ -1,0 +1,10 @@
+#Maximo de numeros
+print("Ingresa un número: ")
+num1= input()
+print("Ingresa un número: ")
+num2= input()
+
+if num1 > num2:
+    print(num1)
+else:
+    print(num2)
